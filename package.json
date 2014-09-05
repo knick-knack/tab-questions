@@ -1,0 +1,29 @@
+{
+  "name": "tab-questions",
+  "version": "0.0.1",
+  "description": "A NodeJS library that let's you ask questions on the command line and supply answers with tab support.",
+  "main": "start.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knick-knack/tab-questions"
+  },
+  "keywords": [
+    "cli",
+    "tab",
+    "questions",
+    "answer",
+    "commandline",
+    "terminal"
+  ],
+  "author": "Michael Müller",
+  "contributors": [
+    {
+      "name": "Johannes Kissel"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knick-knack/tab-questions/issues"
+  },
+  "homepage": "https://github.com/knick-knack/tab-questions"
+}
